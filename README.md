@@ -1,2 +1,2 @@
 # challenge_stegano_1
-a esay stegano challenge for beginner 
+a easy stegano challenge for beginner 
